@@ -1,0 +1,75 @@
+.wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: auto;
+    height: 723px;
+    background-color: #f7f7f7;
+}
+.content {
+    margin-top: 58px;
+    width: 1352px;
+    display: flex;
+    flex-direction: row;
+}
+.imageBook {
+}
+.img {
+    height: 403px;
+    box-shadow: 1px 5px 5px 1px rgba(0, 0, 0, 0.4);
+}
+.description {
+    margin-top: 68px;
+    margin-left: 83px;
+}
+.title {
+    display: block;
+    font-size: 36px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.19;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+}
+.ganre {
+    display: block;
+    font-size: 23px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.22;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+    margin-top: 16px;
+}
+.author {
+    display: block;
+    font-size: 18px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.78;
+    letter-spacing: normal;
+    text-align: left;
+    color: #8f95a3;
+    margin-top: 20px;
+}
+.buttons {
+    display: flex;
+    flex-direction: row;
+}
+.lineTop {
+    width: 608px;
+    opacity: 0.1;
+    margin: 42px 0 13px 0;
+    border: solid 1px #5c626e;
+}
+.lineBottom {
+    width: 608px;
+    opacity: 0.1;
+    margin: 13px 0 13px 0;
+    border: solid 1px #5c626e;
+}

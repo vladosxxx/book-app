@@ -1,0 +1,55 @@
+.wrapperNav {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    height: 68px;
+    width: 100%;
+}
+.navigation {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1352px;
+    background-color: #fff;
+    /*padding: 12px 0 0.5px 0.5px;*/
+}
+.wrapperLink{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.button {
+    text-decoration: none;
+    font-family: SFProDisplay;
+    font-size: 19px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: normal;
+    text-align: left;
+    margin-left: 30px;
+    color: #8f95a3;
+}
+.title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    font-size: 25px;
+    color: #000000;
+}
+.logo {
+    position: relative;
+    top: 1px;
+    right: 3px;
+    height: 40px;
+}
+.arrow {
+    height: 6px;
+    margin-left: 10px;
+    margin-bottom: 3px;
+}
+.active {
+    color: #009aeb!important;
+}
