@@ -8,26 +8,26 @@ const NavBar = () => {
     <div className={styles.wrapperNav}>
       <nav className={styles.navigation}>
         <div className={styles.wrapperLink}>
-          <Link to="/" className={styles.title}>
+          <Link to="/book-app" className={styles.title}>
             <img src={Logo} alt="Logo" className={styles.logo} />
             Instaread
           </Link>
         </div>
         <div className={styles.wrapperLink}>
-          <NavLink to="/discover" className={styles.button}>
+          <NavLink to="/book-app/discover" className={styles.button}>
             Discover
           </NavLink>
-          <NavLink to="/search" className={styles.button}>
+          <NavLink to="/book-app/search" className={styles.button}>
             Search
           </NavLink>
           <NavLink
-            to="/"
+            to="/book-app"
             className={styles.button}
             style={{ color: "#009aeb" }}
           >
             Try Instaread
           </NavLink>
-          <NavLink to="/login" className={styles.button}>
+          <NavLink to="/book-app/login" className={styles.button}>
             Login
             <img src={Arrow} alt="Logo" className={styles.arrow} />
           </NavLink>

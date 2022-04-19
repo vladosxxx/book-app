@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <NavBar />
       <Routes>
-        <Route path="/" element={<HeadBook />} />
+        <Route path="/book-app" element={<HeadBook />} />
       </Routes>
     </div>
   );

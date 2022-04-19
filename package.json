@@ -1,8 +1,8 @@
 {
   "name": "book-app",
   "version": "0.1.0",
-  "homepage": "https://vladosxxx.github.io/book-app",
   "private": true,
+  "homepage": "https://vladosxxx.github.io/book-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.1.1",
