@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/book-app/static/css/main.e10d8053.css",
-    "main.js": "/book-app/static/js/main.ce1cb2c4.js",
-    "static/js/787.fb67f53c.chunk.js": "/book-app/static/js/787.fb67f53c.chunk.js",
-    "static/media/book.png": "/book-app/static/media/book.ef95320a946d38c19ba0.png",
-    "static/media/FontsFree-Net-SFProDisplay-Regular.ttf": "/book-app/static/media/FontsFree-Net-SFProDisplay-Regular.1e1c0e29b79b49a6ff4d.ttf",
-    "static/media/folded-newspaper.svg": "/book-app/static/media/folded-newspaper.b8d9706e644cfb6dbafae7bf6d6db59f.svg",
-    "static/media/cart.svg": "/book-app/static/media/cart.69140966b0466fbe66577213373f0a13.svg",
-    "static/media/audio-headphones.svg": "/book-app/static/media/audio-headphones.b807ca7506adf5f7c959b6fbf4887b2f.svg",
-    "static/media/bookmark.svg": "/book-app/static/media/bookmark.1873455d84c95bb8d52f72ca5bd2226f.svg",
-    "index.html": "/book-app/index.html",
-    "main.e10d8053.css.map": "/book-app/static/css/main.e10d8053.css.map",
-    "main.ce1cb2c4.js.map": "/book-app/static/js/main.ce1cb2c4.js.map",
-    "787.fb67f53c.chunk.js.map": "/book-app/static/js/787.fb67f53c.chunk.js.map"
+    "main.css": "/instaread/static/css/main.34ab5d46.css",
+    "main.js": "/instaread/static/js/main.b4a9f608.js",
+    "static/js/787.fb67f53c.chunk.js": "/instaread/static/js/787.fb67f53c.chunk.js",
+    "static/media/book.png": "/instaread/static/media/book.ef95320a946d38c19ba0.png",
+    "static/media/FontsFree-Net-SFProDisplay-Regular.ttf": "/instaread/static/media/FontsFree-Net-SFProDisplay-Regular.1e1c0e29b79b49a6ff4d.ttf",
+    "static/media/folded-newspaper.svg": "/instaread/static/media/folded-newspaper.b8d9706e644cfb6dbafae7bf6d6db59f.svg",
+    "static/media/cart.svg": "/instaread/static/media/cart.69140966b0466fbe66577213373f0a13.svg",
+    "static/media/audio-headphones.svg": "/instaread/static/media/audio-headphones.b807ca7506adf5f7c959b6fbf4887b2f.svg",
+    "static/media/bookmark.svg": "/instaread/static/media/bookmark.1873455d84c95bb8d52f72ca5bd2226f.svg",
+    "index.html": "/instaread/index.html",
+    "main.34ab5d46.css.map": "/instaread/static/css/main.34ab5d46.css.map",
+    "main.b4a9f608.js.map": "/instaread/static/js/main.b4a9f608.js.map",
+    "787.fb67f53c.chunk.js.map": "/instaread/static/js/787.fb67f53c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e10d8053.css",
-    "static/js/main.ce1cb2c4.js"
+    "static/css/main.34ab5d46.css",
+    "static/js/main.b4a9f608.js"
   ]
 }
